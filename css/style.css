@@ -1,0 +1,15 @@
+p {
+ color: aqua;
+ background-color: black;   
+}
+
+
+
+.title {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: blueviolet;
+    width: 14em;
+}
+
